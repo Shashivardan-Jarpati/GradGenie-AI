@@ -74,6 +74,57 @@ Generate scoring answers instantly:
 * **Deployment:** Streamlit Cloud
 
 ---
+## 🧠 How It Actually Works
+#### ✅ It can handle:
+
+- All core B.Tech subjects
+
+- Any branch (CSE, ECE, EEE, MECH, CIVIL)
+
+- Theory questions
+
+- Exam preparation
+
+- Concepts + revision
+
+#### Because:
+
+- You added branch context layer ✔
+
+- AI is using LLM via OpenRouter ✔
+
+So it is multi-branch intelligent now.
+
+### ⚠️ But Important Truth (Realistic)
+- All modes do NOT behave the same.
+They answer differently 👇
+
+### 🧠 AI Tutor
+
+✔ Deep explanations
+✔ Concept clarity
+✔ Full-length answers
+👉 Best for: Learning
+
+### 🚑 Backlog Rescue
+
+✔ Study plans
+✔ Time-based strategies
+✔ Pass-focused content
+👉 Best for: Backlog students
+
+### 💡 Doubt Solver
+
+✔ Short answers
+✔ Simple explanations
+👉 Best for: Quick doubts
+
+### 📝 Smart Exam Mode
+
+✔ Marks-oriented answers
+✔ 5M / 10M format
+✔ Revision style
+👉 Best for: Exam writing
 
 ## 📦 Installation (Local Run)
 
