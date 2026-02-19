@@ -125,6 +125,30 @@ They answer differently 👇
 ✔ 5M / 10M format
 ✔ Revision style
 👉 Best for: Exam writing
+## One common question I got:
+### 👉 “Does this support CSE specializations like AI/ML, Data Science, Cyber Security?”
+
+##### Answer: YES.
+
+##### GradGenie AI supports all CSE specializations, because they are built on core computer science foundations:
+• Operating Systems
+• DBMS
+• Computer Networks
+• Programming
+• Algorithms
+
+#### Whether you're:
+✔ CSE Core
+✔ CSE AI/ML
+✔ CSE Data Science
+✔ CSE Cyber Security
+✔ CSE IoT
+
+#### GradGenie understands your academic needs and gives exam-focused answers, not generic AI replies.
+This is just Version 1.
+More intelligent specialization-aware upgrades coming soon 🚀
+
+
 
 ## 📦 Installation (Local Run)
 
