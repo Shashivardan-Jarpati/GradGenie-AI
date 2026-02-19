@@ -8,10 +8,10 @@ It helps simplify complex subjects, generate exam-ready answers, and provide str
 ---
 
 ## 🚀 Live Demo
-
 👉 Local Host : http://localhost:8501/
 ---
-
+👉 After Deploying Link : https://gradgenie-ai-jsv.streamlit.app/
+---
 ## ✨ Features
 
 ### 🧠 AI Tutor
