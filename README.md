@@ -218,8 +218,8 @@ AI Builder | Engineering Student
 ---
 
 ## 📜 License
-
-This project is for educational and personal use.
+This project is licensed under the Apache License 2.0.
+© 2026 Shashivardan Jarpati
 
 ---
 
